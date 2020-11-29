@@ -6,6 +6,7 @@
 
 <br><br>
 
-<p><strong><a href="https://github.com/guilhermehv">Guilherme Henrique Vicente Oliveira</a> e <a href="https://github.com/matheusem">Matheus Eugênio Moreira</a></strong> <p/>
+
+Made by Guilherme Henrique Vicente Oliveira e Matheus Eugênio Moreira
 
 
